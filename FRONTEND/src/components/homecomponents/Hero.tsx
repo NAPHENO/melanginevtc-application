@@ -11,7 +11,7 @@ export function Hero() {
             }}
         >
             {/* Dark overlay */}
-            <div className="absolute inset-0 bg-[#031936]/85" />
+            <div className="absolute inset-0 bg-[#031936]/75" />
 
             {/* Hero content */}
             <div className="relative z-10 flex min-h-[520px] items-center justify-center px-6 py-20">

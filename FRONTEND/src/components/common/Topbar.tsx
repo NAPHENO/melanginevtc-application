@@ -22,6 +22,15 @@ export function TopBar() {
                 <div className="flex items-center gap-4">
           <span className="flex items-center gap-1">
             <GraduationCap className="h-3 w-3" />
+Careers
+          </span>
+
+                    <span className="flex items-center gap-1">
+            <GraduationCap className="h-3 w-3" />
+Resources
+                    </span>
+                    <span className="flex items-center gap-1">
+            <GraduationCap className="h-3 w-3" />
             E-Learning
           </span>
 
